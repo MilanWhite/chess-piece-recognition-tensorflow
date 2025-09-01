@@ -1,4 +1,4 @@
-# Chess Piece Recognition, w/ TF
+# Chess Piece Recognition, with Tensorflow
 Extract FEN from image of chessboard using Tensorflow AI Recognition model, implemented with ```tf.Graph()```.
 
 
